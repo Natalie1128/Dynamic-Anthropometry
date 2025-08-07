@@ -1,8 +1,0 @@
-numpy
-open3d
-torch
-scipy
-smplx
-human-body-prior
-colour
-matplotlib
